@@ -20,6 +20,9 @@
 #include "main.h"
 #include "gpio.h"
 //这位是哪，你人呢？
+//你好
+//不好
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -35,7 +38,7 @@
 
 /* USER CODE END PD */
 
-/* Private macro -------------------------------------------------------------*/
+/* Private macro -------------------------------------------------------------*/ 
 /* USER CODE BEGIN PM */
 
 /* USER CODE END PM */
